@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why Data Science?"
-date:       2019-05-19 16:43:45 +0000
+date:       2019-05-19 12:43:46 -0400
 permalink:  why_data_science
 ---
 
@@ -23,7 +23,7 @@ I mention my experience producing data tables for this reason: I have seen how d
 
 These mistakes have encouraged me to look at data with careful eyes. I don't take these insights for granted now; I know that mistaken timestamps, missing data and headers, and unrealistic values are possible in any data set. 
 
-2. *I enjoy the hunt for data.*
+2.  *I enjoy the hunt for data.*
 While much of data science work may seem mundane to outsiders, I feel that there are exciting challenges inherent in each step of the data science process. For example, even the initial gathering or scraping of data is not always an easy task.
 
 For many of my work projects, such as gathering data for the production of scientific papers, I have been lucky to have access to a number of user-friendly meteorological databases. These databases have allowed me to access a wide swath of reliable measurements within minutes of a request. 
