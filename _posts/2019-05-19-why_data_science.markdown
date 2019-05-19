@@ -11,7 +11,7 @@ Why did I decide to pursue a career in data science? Well, all the talk about [H
 
 I want to share some of the drivers that convinced me to enroll in Flatiron’s data science bootcamp, just one of the first few stops on my sure-to-be long, winding data science educational path.
 
-* I seem to be heading down the data science path anyway!
+### I seem to be heading down the data science path anyway!
 
 As a research technician for a Department of Energy atmospheric research project, I have been working with data rather peripherally for some time. By working with data, I mean both searching for it and aiding in the creation of it.
 
@@ -23,7 +23,8 @@ I mention my experience producing data tables for this reason: I have seen how d
 
 These mistakes have encouraged me to look at data with careful eyes. I don't take these insights for granted now; I know that mistaken timestamps, missing data and headers, and unrealistic values are possible in any data set. 
 
-* I enjoy the hunt for data!
+
+### I enjoy the hunt for data!
 
 While much of data science work may seem mundane to outsiders, I feel that there are exciting challenges inherent in each step of the data science process. For example, even the initial gathering or scraping of data is not always an easy task.
 
@@ -33,13 +34,15 @@ However, data are more often unstructured and widely-distributed, both online an
 
 Heck, even when databases are easy to access, there is still the added challenge of ensuring that you are gathering the right data for your particular question.
 
- *I can answer my own questions!                                                               
+
+### I can answer my own questions!                                                               
 
 As I dive deeper into learning languages such as Python and SQL that allow me to easily organize and prepare data for informative visualizations, I wonder what other questions I can answer for myself using available data and careful analysis.
 
 As an avid writer, I most enjoy the process of communicating insights after the work of data capturing, cleaning, processing, and analysis. In my search for the qualities requisite for data scientists, I was pleasantly surprised to read over and over again that [good storytelling is an integral part of the data science process](https://towardsdatascience.com/storytelling-for-data-scientists-317c2723aa31).
 
- *There will always be more to learn!
+
+### There will always be more to learn!
 
 My interests in particular careers have varied since my youth, but my drive to keep learning has never waned. Data science and the available workflows are constantly evolving, especially as unthinkably large data sets become more of the norm.
 
